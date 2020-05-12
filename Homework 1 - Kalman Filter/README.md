@@ -14,4 +14,4 @@ Running this file will give the parameters of the Gaussian estimate before and a
 
 Sources 
 For learning how to create subplots https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html
-For learning how to plot uncertainty ellipseshttps://www.visiondummy.com/
+For learning how to plot uncertainty ellipses https://www.visiondummy.com/
